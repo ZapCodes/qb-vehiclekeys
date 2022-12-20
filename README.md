@@ -19,6 +19,5 @@
 
  * Any problems you can leave into the @ISSUES section!
  
- * Or make fixes your self if you are  know what these scripts are standing for or how they were build up
-  
+ * Or make fixes your self if you know how these scripts are made for
   
