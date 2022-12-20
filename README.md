@@ -4,7 +4,7 @@
   
   * Not sure if this work with robbery system but i think it is good to go
  
- # INSTALLATION
+# INSTALLATION
  
   * Extract the ZIP file 
   
@@ -13,3 +13,10 @@
   * Add start up config into server.cfg file 
   
   * And you are ready to go
+  
+  
+# BUG REPORTS
+
+ * Any problems you can leave into the @ISSUES section!
+  
+  
